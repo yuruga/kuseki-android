@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list
+xmlns:android="http://schemas.android.com/apk/res/android" >
+<item
+    android:drawable="@drawable/cofeeimg4"
+    android:maxLevel="360"
+    android:minLevel="270" />
+<item
+    android:drawable="@drawable/cofeeimg3"
+    android:maxLevel="270"
+    android:minLevel="180" />
+<item
+    android:drawable="@drawable/cofeeimg2"
+    android:maxLevel="180"
+    android:minLevel="90" />
+<item
+    android:drawable="@drawable/cofeeimg1"
+    android:maxLevel="90"
+    android:minLevel="0" />
+</level-list>

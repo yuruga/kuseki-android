@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="api_host">http://52.69.120.73:8000</string>
+</resources>
